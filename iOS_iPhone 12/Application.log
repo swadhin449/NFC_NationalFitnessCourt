@@ -1,0 +1,6 @@
+[iOS_iPhone 12 INFO ] 2023-04-06 15:32:37.872 ServerManager:20 - starting appium server
+[iOS_iPhone 12 INFO ] 2023-04-06 15:32:40.146 ServerManager:29 - Appium server started
+[iOS_iPhone 12 INFO ] 2023-04-06 15:32:40.163 DriverManager:28 - initializing Appium driver
+[iOS_iPhone 12 INFO ] 2023-04-06 15:32:40.179 PropertyManager:17 - loading config properties
+[iOS_iPhone 12 INFO ] 2023-04-06 15:32:40.179 CapabilitiesManager:18 - getting capabilities
+[iOS_iPhone 12 INFO ] 2023-04-06 15:32:40.181 CapabilitiesManager:42 - appUrl is/Users/codeprismtechnologies/eclipse-workspace/NFC_NationalFitnessCourt/target/test-classes/apps//FitnessCourt.ipa

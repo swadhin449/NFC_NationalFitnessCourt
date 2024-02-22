@@ -1,0 +1,18 @@
+
+`
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(½¨†L
+M
+java:S2629""7Use the built-in formatting to construct this argument.(Şä×£
+R
+java:S2629*"7Use the built-in formatting to construct this argument.(‡¦·øÿÿÿÿ
+l
+java:S3252"WUse static access with "org.openqa.selenium.remote.CapabilityType" for "PLATFORM_NAME".(“ëÚ'
+6	java:S131""Add a default case to this switch.(½¨†L
+V	java:S125"<This block of commented-out lines of code should be removed.(’Œ¾÷üÿÿÿÿ
+W
+java:S3457""AFormat specifiers should be used instead of string concatenation.(Şä×£
+\
+java:S3457*"AFormat specifiers should be used instead of string concatenation.(‡¦·øÿÿÿÿ
+Q	java:S125)"<This block of commented-out lines of code should be removed.(ƒÍõ
+W
+java:S34576"AFormat specifiers should be used instead of string concatenation.(Ú•–ƒ

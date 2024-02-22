@@ -1,0 +1,19 @@
+[iOS_iPhone 11 INFO ] 2023-07-14 17:42:40.133 ServerManager:20 - starting appium server
+[iOS_iPhone 11 INFO ] 2023-07-14 17:42:43.989 ServerManager:29 - Appium server started
+[iOS_iPhone 11 INFO ] 2023-07-14 17:42:44.007 DriverManager:28 - initializing Appium driver
+[iOS_iPhone 11 INFO ] 2023-07-14 17:42:44.023 PropertyManager:17 - loading config properties
+[iOS_iPhone 11 INFO ] 2023-07-14 17:42:44.024 CapabilitiesManager:18 - getting capabilities
+[iOS_iPhone 11 INFO ] 2023-07-14 17:42:44.025 CapabilitiesManager:42 - appUrl is/Users/codeprismtechnologies/eclipse-workspace/NFC_NationalFitnessCourt/target/test-classes/apps/FitnessCourt.ipa
+[iOS_iPhone 11 INFO ] 2023-07-14 17:43:01.729 DriverManager:40 - Driver is initialized
+[iOS_iPhone 11 INFO ] 2023-07-14 17:43:45.830 ServerManager:20 - starting appium server
+[iOS_iPhone 11 INFO ] 2023-07-14 17:43:48.855 ServerManager:29 - Appium server started
+[iOS_iPhone 11 INFO ] 2023-07-14 17:43:48.855 DriverManager:28 - initializing Appium driver
+[iOS_iPhone 11 INFO ] 2023-07-14 17:43:48.855 CapabilitiesManager:18 - getting capabilities
+[iOS_iPhone 11 INFO ] 2023-07-14 17:43:48.856 CapabilitiesManager:42 - appUrl is/Users/codeprismtechnologies/eclipse-workspace/NFC_NationalFitnessCourt/target/test-classes/apps/FitnessCourt.ipa
+[iOS_iPhone 11 INFO ] 2023-07-14 17:44:04.465 DriverManager:40 - Driver is initialized
+[iOS_iPhone 11 INFO ] 2023-07-14 17:44:48.930 ServerManager:20 - starting appium server
+[iOS_iPhone 11 INFO ] 2023-07-14 17:44:51.901 ServerManager:29 - Appium server started
+[iOS_iPhone 11 INFO ] 2023-07-14 17:44:51.901 DriverManager:28 - initializing Appium driver
+[iOS_iPhone 11 INFO ] 2023-07-14 17:44:51.901 CapabilitiesManager:18 - getting capabilities
+[iOS_iPhone 11 INFO ] 2023-07-14 17:44:51.902 CapabilitiesManager:42 - appUrl is/Users/codeprismtechnologies/eclipse-workspace/NFC_NationalFitnessCourt/target/test-classes/apps/FitnessCourt.ipa
+[iOS_iPhone 11 INFO ] 2023-07-14 17:45:07.794 DriverManager:40 - Driver is initialized
